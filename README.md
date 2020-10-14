@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">A passionate hobbiyst developer from Turkey</h3>
+<h3 align="center">A passionate hobbyist developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electropsycho&label=Profile%20views&color=0e75b6&style=flat-square" alt="electropsycho" /> </p>
 
