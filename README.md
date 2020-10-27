@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A passionate hobbyist developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=electropsycho&label=Profile%20views&color=0e75b6&style=flat-square" alt="electropsycho" /> </p>
-
 <p align="left"> <a href="https://twitter.com/hkngln" target="blank"><img src="https://img.shields.io/twitter/follow/hkngln?logo=twitter&style=for-the-badge" alt="hkngln" /></a> </p>
 
 - 💬 Ask me about **java, vuejs,  php/laravel**
