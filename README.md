@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">Hobbyist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hkngln&label=Profile%20views&color=0e75b6&style=flat" alt="hkngln" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkngln" alt="hkngln" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/hkngln" target="blank"><img src="https://img.shields.io/twitter/follow/hkngln?logo=twitter&style=for-the-badge" alt="hkngln" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
